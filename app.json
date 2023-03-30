@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "blur-image",
+    "slug": "blur-image",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "blur-image"
+}
