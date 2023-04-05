@@ -1754,10 +1754,10 @@
     component-type "^1.2.1"
     join-component "^1.1.0"
 
-"@shopify/react-native-skia@^0.1.182":
-  version "0.1.182"
-  resolved "https://registry.yarnpkg.com/@shopify/react-native-skia/-/react-native-skia-0.1.182.tgz#78f14b2ceb9a007f286192444de6f3d436b4a56a"
-  integrity sha512-cItLHtN+DiZMnlO3gOK/XOUl7L8H9EFtNQ+EtRt0w2lGR9CNEpMjXhhah3e01HpRhNXTOFqNWlFbG5Y1YIbUJg==
+"@shopify/react-native-skia@0.1.172":
+  version "0.1.172"
+  resolved "https://registry.yarnpkg.com/@shopify/react-native-skia/-/react-native-skia-0.1.172.tgz#658fb9d90aebaf706d567c331d8bb125175431da"
+  integrity sha512-XpuertepKP/IlCc7Wq6qT+yfhGxSEekq7y+AfTuIVPTwWGEjF/aCAcwHE65zfLJDhjqswYZEk+O+T3XMA7MrwA==
   dependencies:
     "@types/pixelmatch" "^5.2.4"
     "@types/pngjs" "^6.0.1"
